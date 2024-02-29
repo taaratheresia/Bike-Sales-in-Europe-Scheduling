@@ -46,8 +46,6 @@ Disadvantages:
 
 References
 
-Dataset: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
-Deployment: https://huggingface.co/spaces/taaratheresia/deployM2
-
+Dataset: https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
 
