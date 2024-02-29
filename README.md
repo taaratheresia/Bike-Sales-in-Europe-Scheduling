@@ -1,3 +1,5 @@
+# Bike Sales in Europe Scheduling
+
 This project is created as part of an assignment or personal project to analyze bicycle sales data in Europe from 2013 to 2016. The aim is to understand sales performance, customer behavior, market trends, and product stock optimization. The dataset on bicycle sales in Europe provides crucial insights into sales performance, market trends, and customer needs. This analysis aids in business decision-making to enhance profitability and efficiency.
 
 ## Problems Solved
